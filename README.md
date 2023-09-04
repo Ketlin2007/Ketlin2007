@@ -8,5 +8,7 @@
  </br>
  </br>
 
- Tenho 16 anos, moro em São José das Palmeiras/Pr e eu sou aluna da disciplina de pensamento computacional .
+ Tenho 16 anos, moro em São José das Palmeiras/Pr e eu sou aluna da disciplina de pensamento 
+ computacional.
+ 
  
